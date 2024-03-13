@@ -2,7 +2,6 @@
   "name": "template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "parcel build 'src/**/*.js' 'src/index.html' --public-url ./",
     "dev": "parcel 'src/**/*.js' 'src/index.html' --open"
